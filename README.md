@@ -22,7 +22,7 @@
 <h2 align="center">Install</h2>
 
 ```bash
-npm i -D uglifyjs-webpack-plugin
+npm i -D git://github.com/webpack-contrib/uglifyjs-webpack-plugin
 ```
 
 <h2 align="center">Usage</h2>
